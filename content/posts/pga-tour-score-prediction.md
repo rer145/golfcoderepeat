@@ -1,7 +1,7 @@
 ---
 title: "Grad School Research Project - PGA Tour Score Prediction"
 date: 2019-02-04T14:08:11-05:00
-draft: true
+draft: false
 ---
 
 This is the first post where I will be detailing the progress of my grad school research project. This project first started in my 3rd semester of grad school at Mercyhurst University where I am studying Data Science. The class I was enrolled in set the groundwork for my final semester’s project, and in that class is where I began to flesh out the actual project I will work on.
