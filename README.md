@@ -1,1 +1,1 @@
-# golfcoderepeat
+# Golf. Code. Repeat.
