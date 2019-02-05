@@ -1,4 +1,4 @@
 baseURL = "http://golfcoderepeat.com/"
 languageCode = "en-us"
 title = "Golf. Code. Repeat."
-theme = "ananke"
+theme = "hermit"
