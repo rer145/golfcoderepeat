@@ -1,4 +1,30 @@
 baseURL = "http://golfcoderepeat.com/"
 languageCode = "en-us"
 title = "Golf. Code. Repeat."
-theme = "hermit"
+theme = "m10c"
+
+[params]
+  author = "Ron Richardson"
+  description = "Golf and Code. Articles about coding projects related to golf, specifically a graduate level research project."
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/rer145"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/rer145"
+
+  # Green theme
+  [params.style]
+    darkestColor = "#315659"
+    darkColor = "#253031"
+    primaryColor = "#dad865"
+    lightColor = "#96a879"
+    lightestColor = "#fff"
+
+  # Red and black theme
+  #[params.style]
+  #  darkestColor = "#d35050"
+  #  darkColor = "#212121"
+  #  primaryColor = "#ffffff"
+  #  lightColor = "#a2a2a2"
+  #  lightestColor = "#d3d3d3"
